@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/DiegoCost4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCost4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DiegoCost4&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=false&custom_title=Estatísticas%20do%20Diego&hide_border=false&card_width=500&locale=pt-BR&hide_title=false" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCost4&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
