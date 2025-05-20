@@ -1,12 +1,12 @@
 ## 👋 Olá, eu sou o Diego Costa
 
-🔍 Sou apaixonado por tecnologia, negócios e soluções inteligentes. Busco oportunidades para aplicar minhas habilidades em desenvolvimento e automação de processos.
+🔍 Apaixonado por tecnologia, negócios e soluções inteligentes. Busco oportunidades para aplicar minhas habilidades em desenvolvimento e automação de processos.
 
 - 💼 Consultor em Melhoria Contínua com foco em lógica, automações e desenvolvimento de sistemas.
-- 💻 Atualmente desenvolvendo sistemas com **Java (Spring Boot)**, **Python (Flask)** e **PostgreSQL**.
+- 💻 Desenvolvendo com **Java (Spring Boot)**, **Python (Flask)** e **PostgreSQL**.
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados**.
 - 🚀 Experiência com sistemas web, dashboards no Power BI, APIs e integração com ERPs.
-- 📫 E-mail para contato: diegocostaferreiradasilva@gmail.com
+- 📫 E-mail para contato: **diegocostaferreiradasilva@gmail.com**
 
 ---
 
@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/DiegoCost4">
-    <img src="https://github-readme-stats.vercel.app/api?username=DiegoCost4&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=false&custom_title=Estatísticas%20do%20Diego&hide_border=false&card_width=500&locale=pt-BR&hide_title=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCost4&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20Diego"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCost4&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
@@ -37,12 +37,12 @@
 
 ### 🌐 Redes Sociais
 
-<div>
+<div align="left">
   <a href="https://instagram.com/diego_cost4" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/diego-costa-77535a185" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
