@@ -4,7 +4,7 @@
 
 - 💼 Consultor em Melhoria Contínua com foco em lógica, automações e desenvolvimento de sistemas.
 - 💻 Desenvolvendo com **Java (Spring Boot)**, **Python (Flask)** e **PostgreSQL**.
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados**.
+- 📚 Formado em **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados**.
 - 🚀 Experiência com sistemas web, dashboards no Power BI, APIs e integração com ERPs.
 - 📫 E-mail para contato: **diegocostaferreiradasilva@gmail.com**
 
