@@ -34,13 +34,10 @@ Gosto de transformar rotinas manuais em fluxos claros, rápidos e confiáveis �
 ---
 
 ### 📊 GitHub Stats
-<div align="left">
-  <a href="https://github.com/DiegoCost4">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DiegoCost4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCost4&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</div>
 
+<div align="left">
+  <img height="160em" src="https://streak-stats.demolab.com?user=DiegoCost4&theme=dark&hide_border=true" />
+</div>
 ---
 
 ### 🌐 Redes
